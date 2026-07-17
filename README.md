@@ -2,16 +2,16 @@
 
 # Shaik Althaf
 
-### Founder & CEO · AI Cloud & Platform Engineering · Enterprise Automation
+### Co-Founder & CEO · Cloud Network & Automation Engineer · AI Cloud Innovation Lead
 
-Building secure cloud systems, reusable automation, and the engineering foundations of **MacroCloud**.
+Building secure cloud networks, multi-cloud platforms, and the engineering foundations of **MacroCloud**.
 
 <p align="center">
   <img src="./Shaik_Althaf_Profile1.png" alt="Shaik Althaf" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+of+MacroCloud;AI+Cloud+%26+Platform+Engineer;Enterprise+Automation+Specialist;Azure+%26+AWS+Solutions+Architect;DevOps+%26+GitOps+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Co-Founder+%26+CEO+of+MacroCloud;Cloud+Network+%26+Automation+Engineer;AI+Cloud+Innovation+Lead+at+DHAKIUM;Azure+%26+AWS+Solutions+Architect;DevOps+%26+GitOps+Specialist;IT+Mentor+%26+IAS+Aspirant" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,15 +27,19 @@ Building secure cloud systems, reusable automation, and the engineering foundati
 
 ## 👨‍💻 Executive Profile
 
-I am the founder and CEO of **MacroCloud** and **PROSKILL IT Technologies**, with an engineering focus spanning cloud infrastructure, DevOps, networking, security, platform engineering, and AI-assisted operations.
+I am a **Cloud Network & Automation Engineer**, **Co-Founder & CEO of MacroCloud**, and **AI Cloud Innovation Lead at DHAKIUM**. My engineering focus spans multi-cloud architectures, network engineering, security, infrastructure automation (DevOps/GitOps), and AI-driven cloud modernization.
 
-My work centers on turning complex infrastructure requirements into secure, maintainable automation. I founded MacroCloud to deliver cloud engineering and consulting services while developing an AI-first infrastructure automation platform.
+- **Enterprise & Multi-Cloud Platforms**: At **MacroCloud**, I lead the development of a platform designed to simplify cloud deployment, migration, automation, and management across leading providers.
+- **AI & Cloud Innovation**: At **DHAKIUM**, I focus on emerging technologies, AI-driven solutions, and enterprise modernization strategies.
+- **Mentoring & Career Development**: Dedicated to guiding students, job seekers, and IT professionals to accelerate their career journeys.
+- **Social Impact & Leadership**: Actively contributing to the welfare and development of underprivileged families through social impact programs under the **P4 initiative of the Government of Andhra Pradesh**.
+- **Public Service**: An **IAS aspirant** committed to public service, leadership, and nation-building—combining technology, innovation, and governance to create meaningful impact at scale.
 
 ---
 
 ## 🚀 Tech Stack & Engineering Domains
 
-### ☁️ Cloud Infrastructure
+### ☁️ Cloud Infrastructure & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -104,14 +108,15 @@ My work centers on turning complex infrastructure requirements into secure, main
 
 ---
 
-## 💼 Ventures
+## 💼 Ventures & Leadership Roles
 
-| MacroCloud | PROSKILL IT Technologies |
-| --- | --- |
-| Founded in **2024** | Founded in **2023** |
-| Hyderabad, India · Dubai, UAE | Hyderabad, India |
-| Cloud engineering and consulting; platform under active development | Practical technology education, mentoring, and career-focused learning |
-| [macrocloud.in](https://macrocloud.in/) · [contact@macrocloud.in](mailto:contact@macrocloud.in) | [proskillit.com](https://www.proskillit.com/) · [contact@proskillit.com](mailto:contact@proskillit.com) |
+| MacroCloud | PROSKILL IT Technologies | DHAKIUM |
+| --- | --- | --- |
+| **Co-Founder & CEO** | **Founder & CEO** | **AI Cloud Innovation Lead** |
+| Founded in **2024** | Founded in **2023** | Enterprise Innovation |
+| Hyderabad, India · Dubai, UAE | Hyderabad, India | Global |
+| Cloud deployment, migration, automation, and management | Practical technology education, mentoring, and career guidance | Emerging tech, AI-driven solutions, and cloud innovation |
+| [macrocloud.in](https://macrocloud.in/) · [contact@macrocloud.in](mailto:contact@macrocloud.in) | [proskillit.com](https://www.proskillit.com/) · [contact@proskillit.com](mailto:contact@proskillit.com) | AI-driven enterprise modernization |
 
 ---
 
@@ -147,7 +152,7 @@ My work centers on turning complex infrastructure requirements into secure, main
 </p>
 
 <h3 align="center">
-  Build with clarity. Automate with evidence. Govern with intent.
+  "Building technology that creates opportunities, solving problems through innovation, and contributing to society through service."
 </h3>
 
 <p align="center">
