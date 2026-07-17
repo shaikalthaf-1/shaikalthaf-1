@@ -2,7 +2,7 @@
 
 # Shaik Althaf
 
-### Co-Founder & CEO · Cloud Network & Automation Engineer · AI Cloud Innovation Lead
+### Founder & CEO, MacroCloud | Enterprise Cloud Engineer | AI Innovation Leader | Technology Mentor | Government Technology Contributor | Social Impact Advocate
 
 Building secure cloud networks, multi-cloud platforms, and the engineering foundations of **MacroCloud**.
 
@@ -11,7 +11,7 @@ Building secure cloud networks, multi-cloud platforms, and the engineering found
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Co-Founder+%26+CEO+of+MacroCloud;Cloud+Network+%26+Automation+Engineer;AI+Cloud+Innovation+Lead+at+DHAKIUM;Azure+%26+AWS+Solutions+Architect;DevOps+%26+GitOps+Specialist;IT+Mentor+%26+IAS+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Co-Founder+%26+CEO+of+MacroCloud;Enterprise+Cloud+Engineer+@+Uniper;AI+Cloud+Innovation+Lead+@+DHAKIUM;Azure+%26+AWS+Solutions+Architect;DevOps+%26+GitOps+Specialist;IT+Mentor+%26+IAS+Aspirant" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,15 +25,71 @@ Building secure cloud networks, multi-cloud platforms, and the engineering found
 
 ---
 
-## 👨‍💻 Executive Profile
+## 🎯 Unified Mission
 
-I am a **Cloud Network & Automation Engineer**, **Co-Founder & CEO of MacroCloud**, and **AI Cloud Innovation Lead at DHAKIUM**. My engineering focus spans multi-cloud architectures, network engineering, security, infrastructure automation (DevOps/GitOps), and AI-driven cloud modernization.
+> **Leading multiple strategic initiatives across Enterprise Cloud, Artificial Intelligence, Entrepreneurship, Education, Government Digital Transformation, and Social Impact—building technology that creates measurable value for businesses, governments, and communities.**
 
-- **Enterprise & Multi-Cloud Platforms**: At **MacroCloud**, I lead the development of a platform designed to simplify cloud deployment, migration, automation, and management across leading providers.
-- **AI & Cloud Innovation**: At **DHAKIUM**, I focus on emerging technologies, AI-driven solutions, and enterprise modernization strategies.
-- **Mentoring & Career Development**: Dedicated to guiding students, job seekers, and IT professionals to accelerate their career journeys.
-- **Social Impact & Leadership**: Actively contributing to the welfare and development of underprivileged families through social impact programs under the **P4 initiative of the Government of Andhra Pradesh**.
-- **Public Service**: An **IAS aspirant** committed to public service, leadership, and nation-building—combining technology, innovation, and governance to create meaningful impact at scale.
+```
+🚀 Enterprise Cloud Engineer @ Uniper
+🤖 AI Cloud Innovation Lead @ DHAKIUM
+🏢 Founder & CEO @ MacroCloud
+🎓 Founder & IT Mentor @ PRO SKILL IT
+💼 Career Counsellor
+🏛️ Government Technology Contributor (AP P4 Initiative)
+📚 UPSC Prelims Qualified | Governance Enthusiast
+❤️ Social Impact Contributor @ PRDS
+
+Building AI • Cloud • DevOps • Automation • GovTech • Open Source
+```
+
+---
+
+## 💼 Current Strategic Leadership & Responsibilities
+
+### 🚀 1. Enterprise Cloud Engineering
+* **Role:** Cloud DevOps & Network Automation Engineer
+* **Organization:** [Uniper](https://www.linkedin.com/in/shaik-althaf/)
+* **Focus Areas:** Cloud Infrastructure, DevOps, Network Automation, Enterprise Operations, Platform Reliability.
+* 🔗 **Profile Link:** [LinkedIn Profile](https://www.linkedin.com/in/shaik-althaf/)
+
+### 🤖 2. AI Innovation & Cloud Strategy
+* **Role:** AI Cloud Innovation Lead Engineer
+* **Organization:** [DHAKIUM](https://www.linkedin.com/in/shaik-althaf/)
+* **Focus Areas:** Enterprise AI, Cloud AI Solutions, Intelligent Automation, AI Architecture, Digital Innovation.
+* 🔗 **Profile Link:** [LinkedIn Profile](https://www.linkedin.com/in/shaik-althaf/)
+
+### 🏢 3. Entrepreneurship & Product Development
+* **Role:** Founder & CEO
+* **Organization:** [MacroCloud](https://macrocloud.in/)
+* **Focus Areas:** AI Platforms, Cloud Solutions, Enterprise SaaS, Automation Products, Digital Transformation Services.
+* 🔗 **Venture Link:** [macrocloud.in](https://macrocloud.in/)
+
+### 🎓 4. Technology Education & Mentorship
+* **Role:** Founder & IT Mentor
+* **Organization:** [PRO SKILL IT Technologies](https://www.proskillit.com/)
+* **Focus Areas:** Cloud Engineering, DevOps, AI, Career Growth, Technical Mentorship.
+* 🔗 **Venture Link:** [proskillit.com](https://www.proskillit.com/)
+
+### 💼 5. Career Advisory
+* **Role:** Career Counsellor
+* **Focus Areas:** Career Planning, Technical Interviews, Professional Development, IT Career Roadmaps.
+* 🔗 **Booking Link:** [Schedule a Session on Calendly](https://calendly.com/shaikalthafcgl/30min)
+
+### 🏛️ 6. Government & Public Impact
+* **Role:** Technology Contributor – [Government of Andhra Pradesh (P4 Initiative)](https://zeropovertyp4.ap.gov.in/home)
+* **Focus Areas:** Working closely with the Government of Andhra Pradesh to support the **P4 (Public–Private–People Partnership)** initiative focused on empowering adopted underprivileged families through technology-enabled community development.
+* 🔗 **Initiative Link:** [AP Zero Poverty P4 Portal](https://zeropovertyp4.ap.gov.in/home)
+
+### 📚 7. Civil Services & Governance
+* **Role:** UPSC (Civil Services) Aspirant – Prelims Qualified
+* **Focus Areas:** Qualified UPSC Civil Services Preliminary Examination. Deep interest in public administration, governance, and policy. Applying governance principles to technology-led public impact.
+* 🔗 **Evidence Link:** [UPSC CSP Qualified Candidates List](https://upsconline.gov.in/CSP-2025-WR-NameList-Engl-110625.pdf)
+
+### ❤️ 8. Social Development
+* **Role:** Member & Contributor
+* **Organization:** [Pragathi Rural Development Society (PRDS)](http://prds.org)
+* **Focus Areas:** Rural Development, Community Empowerment, Education, Social Welfare.
+* 🔗 **Organization Link:** [prds.org](http://prds.org)
 
 ---
 
@@ -78,7 +134,7 @@ I am a **Cloud Network & Automation Engineer**, **Co-Founder & CEO of MacroCloud
 
 ---
 
-## 🎯 Current Focus & Capabilities
+## 🎯 MacroCloud Capabilities & Status
 
 | Capability / Platform Component | Status |
 | --- | --- |
@@ -105,18 +161,6 @@ I am a **Cloud Network & Automation Engineer**, **Co-Founder & CEO of MacroCloud
 | **GitOps Pipeline** | Reusable CI/CD and deployment workflow |
 
 > Case studies are published only after evidence, confidentiality, security, and media-rights review. Client identities, employer-owned code, production configurations, and unsupported metrics remain excluded.
-
----
-
-## 💼 Ventures & Leadership Roles
-
-| MacroCloud | PROSKILL IT Technologies | DHAKIUM |
-| --- | --- | --- |
-| **Co-Founder & CEO** | **Founder & CEO** | **AI Cloud Innovation Lead** |
-| Founded in **2024** | Founded in **2023** | Enterprise Innovation |
-| Hyderabad, India · Dubai, UAE | Hyderabad, India | Global |
-| Cloud deployment, migration, automation, and management | Practical technology education, mentoring, and career guidance | Emerging tech, AI-driven solutions, and cloud innovation |
-| [macrocloud.in](https://macrocloud.in/) · [contact@macrocloud.in](mailto:contact@macrocloud.in) | [proskillit.com](https://www.proskillit.com/) · [contact@proskillit.com](mailto:contact@proskillit.com) | AI-driven enterprise modernization |
 
 ---
 
