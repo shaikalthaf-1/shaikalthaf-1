@@ -33,14 +33,6 @@ My work centers on turning complex infrastructure requirements into secure, main
 
 ---
 
-## 🏢 Founder's Office & Venture Headquarters
-
-<p align="center">
-  <img src="./founder-office.jpg" alt="MacroCloud Founder's Office" width="700" style="border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);" />
-</p>
-
----
-
 ## 🚀 Tech Stack & Engineering Domains
 
 ### ☁️ Cloud Infrastructure
@@ -119,7 +111,7 @@ My work centers on turning complex infrastructure requirements into secure, main
 | Founded in **2024** | Founded in **2023** |
 | Hyderabad, India · Dubai, UAE | Hyderabad, India |
 | Cloud engineering and consulting; platform under active development | Practical technology education, mentoring, and career-focused learning |
-| [macrocloud.in](https://macrocloud.in/) · [contact@macrocloud.in](mailto:contact@macrocloud.in) | [contact@proskillit.com](mailto:contact@proskillit.com) |
+| [macrocloud.in](https://macrocloud.in/) · [contact@macrocloud.in](mailto:contact@macrocloud.in) | [proskillit.com](https://www.proskillit.com/) · [contact@proskillit.com](mailto:contact@proskillit.com) |
 
 ---
 
